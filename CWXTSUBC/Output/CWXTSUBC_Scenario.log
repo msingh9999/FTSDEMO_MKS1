@@ -1,0 +1,40 @@
+15:09:36.138 INFO      TOPAZ            ***************************************
+15:09:36.139 INFO      TOPAZ            ** Execution from Topaz with options **
+15:09:36.139 INFO      TOPAZ            ***************************************
+15:09:36.139 INFO      TOPAZ            Using repository: true
+15:09:36.139 INFO      TOPAZ            Repository URL: http://dtw-cwcc-td.nasa.cpwr.corp:2020/totaltestapi/
+15:09:36.139 INFO      TOPAZ            ***************************************
+15:09:36.160 INFO      Engine           Test Scenario execution started
+15:09:36.160 INFO      Engine           Using context settings:
+  Engine Version                : 20.9.1.v20211213-1238_91
+  Environment id                : 5ebdbe24e3a452122099d922
+  Environment type              : Batch
+  Operating system              : ZOS
+  zOS agent version             : NEWEST
+  Server address                : cwcc.nasa.cpwr.corp
+  Server port                   : 16198
+  Job execution timeout seconds : 600
+  Job info interval seconds     : 3
+  Socket read timeout           : 30
+  Encoding                      : ISO8859-1
+  Codepage                      : IBM-1047
+  Host user Id                  : CWEZXXX
+  Use Repository Server         : false
+15:09:36.160 INFO      Engine           Setting variables from context and context data extensions
+15:09:36.160 INFO      Engine             id: environmentId      value: 5ebdbe24e3a452122099d922
+15:09:36.160 INFO      Engine             id: environmentType    value: BATCH
+15:09:36.161 INFO      Engine             id: userId             value: CWEZXXX
+15:09:36.161 INFO      Engine             id: accountingInfo     value: 
+15:09:36.161 INFO      Unittest         Interpreting Unittest of module: CWXTSUBC testscenario path: CWXTSUBC_Scenario.testscenario
+15:09:36.184 INFO      Unittest         Using JCL skeleton to submit JCL
+15:09:38.196 INFO      TEST DRIVE - BATCH Sending Job execution request to Host 
+15:09:43.273 INFO      TEST DRIVE - BATCH Job execution completed with status:
+  Job status     : COMPLETED
+  Job status msg : Job CWEZXXXA(J0246253) ended with return code: 0000
+  Job name       : CWEZXXXA
+  Job id         : J0246253
+  Return code    : 0000
+  Abend code     : 
+  Abend reason   : 
+15:09:43.750 INFO      Unittest         Execution completed
+15:09:43.750 INFO      Engine           Test Scenario execution ended

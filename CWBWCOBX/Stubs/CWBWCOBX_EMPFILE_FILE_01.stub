@@ -1,0 +1,4 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stub:stub xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="SHR" encoding="1047" fileStatus="00" id="CWBWCOBX/Stubs/CWBWCOBX_EMPFILE_FILE_01.stub" stubtype="QSAM" target="EMPFILE" token="40000">
+  <stub:description>Created: Mar 4, 2022 3:26:42 PM</stub:description>
+</stub:stub>

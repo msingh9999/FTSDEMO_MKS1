@@ -1,0 +1,227 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="MOD" encoding="1047" fileStatus="00" id="TPROG01/Stubs/TPROG01_OUTPUT_FILE_01.stub" stubtype="QSAM" target="OUTPUT" token="20000">
+  <properties:properties>
+    <properties:property name="bufferType" type="string">BA</properties:property>
+  </properties:properties>
+  <stub:description>Created: Mar 3, 2022 9:40:00 PM</stub:description>
+  <stub:stubdata id="0" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="1" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="2" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="3" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C40404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="4" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C00000000000000000000000000000000000000000000000000000000000000000000000000C6D3C1E2C840C6D3C1E2C840C6D3C1E2C800000000000000000000000000000000000000000000000000005C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="5" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C00000000000000000000000000000000000000000000000000000000000000000000000000C6D3C1E2C840C6D3C1E2C840C6D3C1E2C800000000000000000000000000000000000000000000000000005C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="6" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C00000000000000000000000000000000000000000000000000000000000000000000000000C6D3C1E2C840C6D3C1E2C840C6D3C1E2C800000000000000000000000000000000000000000000000000005C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="7" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C40404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="8" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C40404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="9" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C40C140E5C5D9E840C9D4D7D6D9E3C1D5E340D4C5E2E2C1C7C540C2D9D6E4C7C8E340E3D640E8D6E440C2E840C8C2D6E8E7D5F040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="10" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C40404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="11" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5CD996A285A240C1998540D98584404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="12" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C40404040E589969385A3A24081998540C293A4854040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="13" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5CC9E2D7E64089A240C7998581A3404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="14" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C4040404081958440A2964081998540A896A45A404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="15" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C40404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="16" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C40404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040405C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="17" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="18" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="19" name="OUTPUT">
+    <stub:interface>../Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface#TPROG01/Interfaces/TPROG01_OUTPUT_OUTPUT_REC.interface</stub:interface>
+    <stub:output listructure="../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#TPROG01/Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_OUTPUT_OUTPUT-REC.listructure#OUTPUT_REC" id="arg0.OUTPUT_REC">
+        <properties:properties>
+          <properties:property name="value" type="string">00000000000000000000000000000000000000005C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C4040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+</stub:stub>

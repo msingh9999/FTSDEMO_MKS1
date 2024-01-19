@@ -1,0 +1,196 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="TPROG01/Stubs/TPROG01_TSUBR01_01.stub" stubtype="Program" target="TSUBR01" token="10000">
+  <properties:properties>
+    <properties:property name="programtype" type="string">ProgramStubAssertion</properties:property>
+  </properties:properties>
+  <stub:description>Created: Mar 3, 2022 9:39:52 PM</stub:description>
+  <stub:stubdata id="0" name="TSUBR01">
+    <stub:interface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">00D90000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76EC8C2D6E8E7D5F040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#TPROG01/Structures/TPROG01_TSUBR01_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="1" name="TSUBR01">
+    <stub:interface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76EC8C2D6E8E7D5F040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76ED996A285A240C1998540D9858440404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#TPROG01/Structures/TPROG01_TSUBR01_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="2" name="TSUBR01">
+    <stub:interface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76ED996A285A240C1998540D9858440404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76E40404040E589969385A3A24081998540C293A485404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#TPROG01/Structures/TPROG01_TSUBR01_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="3" name="TSUBR01">
+    <stub:interface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76E40404040E589969385A3A24081998540C293A485404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76EC9E2D7E64089A240C7998581A340404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#TPROG01/Structures/TPROG01_TSUBR01_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="4" name="TSUBR01">
+    <stub:interface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76EC9E2D7E64089A240C7998581A340404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76E4040404081958440A2964081998540A896A45A40404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#TPROG01/Structures/TPROG01_TSUBR01_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="5" name="TSUBR01">
+    <stub:interface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">D5D94CD2C5C5D76E4040404081958440A2964081998540A896A45A40404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">E8D9C5D5C44040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#TPROG01/Structures/TPROG01_TSUBR01_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="6" name="TSUBR01">
+    <stub:interface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/TPROG01_TSUBR01.interface#TPROG01/Interfaces/TPROG01_TSUBR01.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">E8C3C5D5C44040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#TPROG01/Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_PASS-ME-AROUND.listructure#PASS_ME_AROUND" id="arg0.PASS_ME_AROUND">
+        <properties:properties>
+          <properties:property name="value" type="string">E8C34040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+          <properties:property name="address" type="string">37CD6988</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#TPROG01/Structures/TPROG01_TSUBR01_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/TPROG01_TSUBR01_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+</stub:stub>

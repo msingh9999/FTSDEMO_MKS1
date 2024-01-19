@@ -1,0 +1,19 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="MOD" encoding="1047" fileStatus="00" id="CWBWCOBX/Stubs/CWBWCOBX_RPTFILE_FILE_01.stub" stubtype="QSAM" target="RPTFILE" token="30000">
+  <properties:properties>
+    <properties:property name="bufferType" type="string">OO</properties:property>
+    <properties:property name="rollover" type="string">0</properties:property>
+  </properties:properties>
+  <stub:description>Created: Mar 4, 2022 3:26:42 PM</stub:description>
+  <stub:stubdata id="0" name="RPTFILE">
+    <stub:interface>../Interfaces/CWBWCOBX_RPTFILE_ERROR_LINE.interface#CWBWCOBX/Interfaces/CWBWCOBX_RPTFILE_ERROR_LINE.interface</stub:interface>
+    <stub:output listructure="../Structures/CWBWCOBX_RPTFILE_ERROR-LINE.listructure#CWBWCOBX/Structures/CWBWCOBX_RPTFILE_ERROR-LINE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWBWCOBX_RPTFILE_ERROR-LINE.listructure#ERROR_LINE" id="arg0.ERROR_LINE">
+        <properties:properties>
+          <properties:property name="value" type="string">404040D7C1D9C1D4C5E3C5D940D3C5D5C7E3C840D6D940C4C1E3C140C9E240C9D5C3D6D9D9C5C3E34040404040404040404040404040404040404040404040404040404040404040404040404040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+  </stub:stubdata>
+</stub:stub>
