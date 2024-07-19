@@ -5,7 +5,7 @@
       <Value>CWEZ.PRD.CWCC.BTCHLOAD</Value>
     </Parameter>
   </ExtensionData>
-  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTCOB" caseInsensitiveCompare="false" path="CWXTCOB_Scenario.testscenario">
+  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTCOB" caseInsensitiveCompare="false" path="CWXTCOB_Scenario.context">
     <Test>
       <Unittest testscenariopath="CWXTCOB_Scenario.testscenario" moduleName="CWXTCOB" />
     </Test>
